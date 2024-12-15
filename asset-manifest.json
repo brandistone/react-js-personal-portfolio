@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brandistone/react-js-personal-portfolio/static/css/main.682190e4.css",
+    "main.js": "/brandistone/react-js-personal-portfolio/static/js/main.e8e06851.js",
+    "index.html": "/brandistone/react-js-personal-portfolio/index.html",
+    "main.682190e4.css.map": "/brandistone/react-js-personal-portfolio/static/css/main.682190e4.css.map",
+    "main.e8e06851.js.map": "/brandistone/react-js-personal-portfolio/static/js/main.e8e06851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682190e4.css",
+    "static/js/main.e8e06851.js"
+  ]
+}
