@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          {/* <img src="./img/logo.svg" alt="Logoipsum" /> */}
         </div>
         <div className="footer--items">
           <ul>
@@ -81,7 +81,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/profile.php?id=61551222808980&mibextid=ZbWKwL"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +102,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/brandy_nyabonyi/profilecard/?igsh=emI0aHgwZDA2bzIxhttps://www.instagram.com/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -125,7 +125,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://x.com/mabeyabrandie?t=J7Ks6jtXsT5VEkwwo7y3ag&s=09"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="http://www.linkedin.com/in/brandistone-mabeya/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -172,7 +172,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Made with 💖 by Brandistone</p>
         <div className="footer--social--icon">
           <ul>
             <li>

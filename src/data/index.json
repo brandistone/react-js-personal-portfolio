@@ -4,47 +4,48 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "React and Vue" 
+
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "django and mongo db"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": ""
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Database",
+      "description": "MySQL and PostgreSQL"
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/apps-for-womens-safety.webp",
+      "title": "QuickSaveApp",
+      "description": "Quick Save is a safety-focused app designed to provide users with quick access to critical emergency information and resources. With features like real-time location sharing, emergency contacts, and quick alert notifications, the app ensures users can swiftly respond in emergency situations.",
       "link": "View In Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/download.jpeg",
+      "title": "Decentralized Storage System",
+      "description": "A Decentralized Storage System built with Rust leverages blockchain and distributed technologies to offer secure, scalable, and censorship-resistant storage solutions. By utilizing Rust’s performance and memory safety features, the system ensures efficient data storage while preventing data tampering and centralization risks. ",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/download (1).jpeg",
+      "title": "Smart Irrigation Farm",
+      "description": "The Smart Irrigation Project is designed to optimize water usage in agricultural practices using IoT technology. By integrating soil moisture sensors, weather data, and automated irrigation systems, the project ensures that crops receive the right amount of water at the right time.",
       "link": "View In Github"
     }
   ],
